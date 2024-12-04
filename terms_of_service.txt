@@ -1,0 +1,27 @@
+Hizmet Şartları (Terms of Service)
+Bu bot, moderasyon görevlerini kolaylaştırmak için tasarlanmış bir araçtır. Kullanıcılar, sunucu yönetimini daha verimli hale getirmek için botun sunduğu komutları ve özellikleri kullanabilir.
+
+Kullanıcıların Uyması Gereken Kurallar:
+
+Bot, yalnızca Discord'un Topluluk Kuralları ve Hizmet Şartları çerçevesinde kullanılabilir.
+Botu, spam, dolandırıcılık veya yasa dışı faaliyetler için kullanmak yasaktır.
+Diğer kullanıcıların haklarını ve gizliliğini ihlal edecek şekilde kullanılmamalıdır.
+
+Veri Toplama ve Gizlilik:
+
+Bot, yalnızca moderasyon amacıyla kullanıcı kimliği (ID) ve mesaj içeriği gibi bilgileri toplayabilir.
+Toplanan bilgiler yalnızca moderasyon için kullanılır ve üçüncü taraflarla paylaşılmaz.
+Daha fazla bilgi için lütfen Gizlilik Politikası belgesine başvurun.
+Sorumluluk Reddi:
+
+Bot, her zaman %100 kesintisiz çalışmayı garanti etmez. Teknik sorunlar veya güncellemeler sırasında erişim kesilebilir.
+Botun kötüye kullanılmasından geliştirici sorumlu değildir.
+Botun kullanımından doğabilecek herhangi bir zarardan kullanıcı sorumludur.
+
+Değişiklikler:
+
+Bu Hizmet Şartları önceden bildirim yapılmaksızın değiştirilebilir.
+Güncellemeler, GitHub deposundaki bu dosyada yayımlanacaktır.
+İletişim:
+Botla ilgili sorularınız için geliştiriciye Discord üzerinden ulaşabilirsiniz:
+Geliştirici: Adowwz_ & <@696819729259560991>
